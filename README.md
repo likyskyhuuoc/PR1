@@ -25,22 +25,22 @@ Please follow the steps below to acquire the results from the governmental websi
 3. Enter the information that you request.
 4. Check the results in your directory. 
 
-The results will be represented in csv files and here are the explanations of the variables:
-Fecha: Date. The format is Day-Month-Year.
-<strong>Hora:</strong> Time. 24-hour system.
-<strong>SO2:</strong> Concentration of SO2 - μg / m³.
-<strong>NO:</strong> Concentration of NO - μg / m³.
-<strong>NO2:</strong> NO2 - Concentration of NO2 - μg / m³
-<strong>NOX:</strong> Concentration of NOX - μg / m³.
-<strong>PM10:</strong> Particles in suspension < 10um - μg / m³.
-<strong>PM2.5:</strong> Particles in suspension & lt; 2,5um - μg / m³.
-<strong>CO:</strong> Concentration of CO - mg / m³.
-<strong>O3:</strong> Concentration of O3 - μg / m³.
-<strong>VV:</strong> Wind speed (Velocidad del viento)- m / s.
-<strong>DD:</strong> Wind direction(Direccion del viento) – Grd.
-<strong>TMP:</strong> Average temperature(Temperatura media) - ºC.
-<strong>HR:</strong> Relative humidity(Humedad relativa) -%.
-<strong>PRB:</strong> Barometric pressure(Presion barometrica) – mb.
+The results will be represented in csv files and here are the explanations of the variables:<br>
+<strong>Fecha:</strong> Date. The format is Day-Month-Year.<br>
+<strong>Hora:</strong> Time. 24-hour system.<br>
+<strong>SO2:</strong> Concentration of SO2 - μg / m³.<br>
+<strong>NO:</strong> Concentration of NO - μg / m³.<br>
+<strong>NO2:</strong> NO2 - Concentration of NO2 - μg / m³.<br>
+<strong>NOX:</strong> Concentration of NOX - μg / m³.<br>
+<strong>PM10:</strong> Particles in suspension < 10um - μg / m³.<br>
+<strong>PM2.5:</strong> Particles in suspension & lt; 2,5um - μg / m³.<br>
+<strong>CO:</strong> Concentration of CO - mg / m³.<br>
+<strong>O3:</strong> Concentration of O3 - μg / m³.<br>
+<strong>VV:</strong> Wind speed (Velocidad del viento)- m / s.<br>
+<strong>DD:</strong> Wind direction(Direccion del viento) – Grd.<br>
+<strong>TMP:</strong> Average temperature(Temperatura media) - ºC.<br>
+<strong>HR:</strong> Relative humidity(Humedad relativa) -%.<br>
+<strong>PRB:</strong> Barometric pressure(Presion barometrica) – mb.<br>
 
 table1.csv, table1.csv, and table1.csv form an example with the following information:
 <strong>type of historical data:</strong> ‘Horario’

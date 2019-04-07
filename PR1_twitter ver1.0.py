@@ -18,10 +18,10 @@ q = input("Please enter the words you want to search in Twitter(A string):")
 max_results = int(input("Please enter the maximum results you would like to have(An integer):"))
 
 #Enter the credentials
-CONSUMER_KEY ='LsRCZLZ18LhgQACsOr9A0Vg48'
-CONSUMER_SECRET = 'M8a55TurQegjfjA2PIwPWbxs9fKrWsMtu6vnwpiWQN6zdKJHo7'
-OAUTH_TOKEN = '4180699216-fFvC3xsBs3p8hXK5iaZKtPJ8KZ6KOfOK97hs2ez'
-OAUTH_TOKEN_SECRET = 'dRzbtiEJ3dhxH8TN8ZewsPTN3jjvGA5cxFZ7Pps1iPmoQ'
+CONSUMER_KEY =''
+CONSUMER_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
 
 auth = twitter.OAuth(OAUTH_TOKEN,OAUTH_TOKEN_SECRET,
                      CONSUMER_KEY, CONSUMER_SECRET)

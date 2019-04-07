@@ -2,7 +2,7 @@
 """
 Created on Sat Apr  6 11:37:23 2019
 
-@author: Xiaowei
+@author: Daura Hernández Díaz; Xiaowei Cai 
 """
 
 import twitter

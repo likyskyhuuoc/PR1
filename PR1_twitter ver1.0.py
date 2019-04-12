@@ -33,7 +33,9 @@ print(twitter_api)
 
 #Define a function to search tweets.
 def twitter_search(twitter_api, q, max_results=200, **kw):
- 
+    #Modify the user agent value to Mozilla browser
+    request_params = modify_user_agent()
+
     search_results = twitter_api.search.tweets(q=q, count=100, **kw)
     
     statuses = search_results['statuses']
@@ -58,6 +60,9 @@ def twitter_search(twitter_api, q, max_results=200, **kw):
             
     return statuses
 
+def modify_user_agent():
+    return {'User-Agent': 'Mozilla/5.0 (Android 5.1; Tablet; rv:50.0) Gecko/50.0 Firefox/50.0'}
+    
 #Create save function and load function    
 def save_json(filename, data):
     #Specify the directory to save JSON file. 

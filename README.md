@@ -8,7 +8,7 @@ This activity is realised collectively by two persons: Daura Hernández Díaz an
 
 # Contents
 <ul>
-<li><strong>PR1_scraping ver1.1.py</strong>：It contains the Python code to scrap the data from <a href="url">the governmental website of the Canary Islands </a>.</li>
+<li><strong>PR1_scraping ver1.1.py</strong>：It contains the Python code to scrap the data from <a href="http://www.gobiernodecanarias.org/medioambiente/calidaddelaire/datosHistoricos.do">the governmental website of the Canary Islands </a>.</li>
 <li><strong>PR1_twitter ver1.1.py</strong>：It contains the Python code to use the Twitter API</li>
 <li><strong>table1.csv</strong>：An output example after conducting PR1_scraping ver1.1.py</li>
 <li><strong>table2.csv</strong>：An output example after conducting PR1_scraping ver1.1.py</li>

@@ -75,5 +75,5 @@ OAUTH_TOKEN_SECRET = ''
 The results will be represented in JSON format. Air pollution.json is an example of the output, which was acquired by entering 'Air pollution' as the content for searching and the maximum results were 5. 
 
 # Reference
-Roberts, B. (2019). Python Website Scanner Tutorial - 5 - robots.txt. Retrieved from https://www.youtube.com/watch?v=8ZZSd0cdymo
-Russell, M. A., & Klassen, M. (2019). Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More. O’Reilly Media, Inc.
+Roberts, B. (2019). Python Website Scanner Tutorial - 5 - robots.txt. Retrieved from https://www.youtube.com/watch?v=8ZZSd0cdymo<br>
+Russell, M. A., & Klassen, M. (2019). Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More. O’Reilly Media, Inc.<br>

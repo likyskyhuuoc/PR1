@@ -1,7 +1,7 @@
 # AIR QUALITY DATA IN CANARY ISLANDS AND QUALITATIVE DATA FROM TWITTER
 
 This is an assignment of the course "Typology and life cycle of the data", belonging to Master of Data Science of the Open University of Catalonia. In this study, we intend to scrap data from a governmental website of the Canary Islands, which provides a variety of air quality indicators across the Canary Islands. Moreover, we implemented the code to reach the Twitter data by using the functions established by Russell & Klassen (2019). 
-On the other, in this work we applied the function get_robots_text() created by Roberts (2019), which helps to print the information in robot.txt.
+On the other, in this work we applied the function get_robots_text() created by Roberts (2019), which serves to acquire the information in robot.txt.
 
 # Members of the group
 This activity is realised collectively by two persons: Daura Hernández Díaz and Xiaowei Cai.

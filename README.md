@@ -20,6 +20,7 @@ This activity is realised collectively by two persons: Daura Hernández Díaz an
 ## Crawler
 The source code of the crawler can be found in PR1_scraping ver1.1.py.
 To acquire the results of air quality, users need to input historical data type (per hour, each eight-hour, daily, or monthly), date (initial and end date), air monitoring station, and air index. Be sure you have installed the following modules: time, BeautifulSoup, and selenium. Additionally, make sure that ChromeDriver(a headless explorer) has been installed and added into environmental path.
+
 In this code, we use headless Chrome to realise the web scraping, and the head information is exactly the same as if it were a real Chrome browser. As a result, we are not going to change the head information. However, for demonstration purpose and for those who want to modify the header information, we show the codes in hashtag from line 57 to line 67.
 
 Please follow the steps below to acquire the results from the governmental website of the Canary Islands:
